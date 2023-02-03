@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "id": 1,
+      "title": "Someone's Stream",
+      "description": "This is someone else's stream.",
+      "userID": "u1"
+    },
+    {
+      "id": 2,
+      "title": "Another Person's Stream",
+      "description": "This is a stream created by another person.",
+      "userID": "u2"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+.menu {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header-left-btn {
+    margin-right: 30px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.header-left-btn:hover {
+    font-size: 25px;
+}
+
+.header-right-btn:hover {
+    font-size: 15px;
+}
+
+@media screen and (max-width: 522px) {
+    .ui.red.button {
+        font-size: 15px !important;
+        padding: 20px !important;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    .header-left-btn {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 522px) {
+    .ui.red.button {
+        padding: 15px !important;
+    }
+}

@@ -1,0 +1,28 @@
+.ui.container h2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2 span {
+    font-size: 35px;
+}
+
+.ui.container p {
+    text-align: center; 
+}
+
+@media screen and (max-width: 550px) {
+    h2 span {
+        font-size: 20px;
+    }
+    .show-stream-title {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 370px) and (max-width: 767px) {
+    .ui.container {
+        width: 100% !important;
+        margin: auto !important;
+    }
+}

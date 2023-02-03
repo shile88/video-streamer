@@ -1,0 +1,13 @@
+.ui.list {
+    width: 80%;
+    margin: auto;
+}
+
+.stream-list-title {
+    text-align: center;
+}
+
+.create-btn {
+    text-align: right;
+    margin-top: 20px;
+}

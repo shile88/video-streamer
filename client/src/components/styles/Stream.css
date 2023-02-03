@@ -1,0 +1,18 @@
+.item {
+    font-size: 25px;
+}
+
+.stream-description {
+    font-size: 18px;
+}
+
+.selected-stream:hover {
+    cursor: pointer;
+    background-color: rgba(128, 128, 128, 0.1);
+}
+
+.title-color {
+    color: #2185d0 !important;
+}
+  
+  
